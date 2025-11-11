@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm (Nama Kamu) 👋
 
-<!--
-**IPutuAksamaPutra/IPutuAksamaPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
+Saya adalah (sebutkan bidang/role kamu, contoh: "pelajar yang tertarik dengan pemrograman" atau "web developer pemula").
 
-Here are some ideas to get you started:
+## Apa yang Saya Lakukan
+- Saat ini belajar: (bahasa/teknologi yang sedang dipelajari)
+- Fokus pada: (contoh: front-end, back-end, web design, dll.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal / Tujuan
+Saya ingin terus berkembang dalam dunia programming dan membangun proyek-proyek sederhana untuk latihan dan portfolio.
+
+Terima kasih sudah mengunjungi profil saya!
