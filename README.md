@@ -6,6 +6,7 @@ Saya merupakan mahasiswa Ilmu Komputer yang memiliki ketertarikan di bidang pemr
 ## Apa yang Sedang Saya Pelajari
 - Dasar pemrograman
 - Pengembangan web (front-end dan back-end)
+- Pengembangan Machine Learning dan Deep Learning
 
 ## Tujuan
 Saya ingin terus berkembang, memperluas pengetahuan, serta membangun proyek-proyek yang bermanfaat untuk melatih kemampuan saya dalam dunia web development.
